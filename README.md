@@ -6,7 +6,7 @@
 - Go
 
 <p align="center">
-  <img align="center" src="https://ghrm.vercel.app/api?username=dulomi&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&rank_icon=percentile" width="40%"/>
+  <img align="center" src="https://ghrm.vercel.app/api?username=culome&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&rank_icon=percentile" width="40%"/>
 
-  <img align="center" src="https://ghrm.vercel.app/api/top-langs/?username=dulomi&langs_count=6&hide_title=true&hide_border=true&layout=compact" width="32%" />
+  <img align="center" src="https://ghrm.vercel.app/api/top-langs/?username=culome&langs_count=6&hide_title=true&hide_border=true&layout=compact" width="32%" />
 </p>
